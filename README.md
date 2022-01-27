@@ -16,12 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github URL](https://github.com/Quakumei/FM-qr-code-component)
+- Live Site URL: [Live Site URL](https://fm-qr-code-component-quakumei.vercel.app/)
 
 ## My process
 
