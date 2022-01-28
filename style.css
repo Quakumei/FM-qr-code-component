@@ -52,16 +52,16 @@ main {
 }
 
 .qr-component__title {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
     padding-top: 1.5rem;
     font-size: 1.35rem;
     font-weight: var(--weight-bold);
 }
 
 .qr-component__subtitle {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
     font-weight: var(--weight-normal);
     color:hsl(220, 15%, 55%)
 }
